@@ -1,3 +1,8 @@
+### 📞 Support & Contact
+If you have any questions, feedback, or if you made a payment but didn't receive your license key, feel free to reach out to us:
+* **Email:** [shorts.of.rajdeep@gmail.com](mailto:shorts.of.rajdeep@gmail.com)
+* **WhatsApp:** [+91 6294399043](https://wa.me/916294399043) *(Send your payment screenshot here for instant activation)*
+
 # 🖨️ Print Shop Pro - Ultimate Edition
 
 Welcome to **Print Shop Pro**, an advanced, all-in-one desktop application designed specifically for Cyber Cafes, Print Shops, and Desktop Publishers. This software streamlines the process of scanning, editing, formatting, and printing ID cards with professional-grade tools and zero lag. 
@@ -52,8 +57,3 @@ Whether you are printing an Aadhaar Card, Voter ID, or PAN Card, Print Shop Pro 
 * **Note for Users:** Check the `License_Key.txt` file for your initial activation key. Once expired, you can easily renew your license directly from the software's Settings tab using the UPI Payment portal.
 
 **Developed with ❤️ for Cyber Cafe Owners.**
-
-### 📞 Support & Contact
-If you have any questions, feedback, or if you made a payment but didn't receive your license key, feel free to reach out to us:
-* **Email:** [shorts.of.rajdeep@gmail.com](mailto:shorts.of.rajdeep@gmail.com)
-* **WhatsApp:** [+91 6294399043](https://wa.me/916294399043) *(Send your payment screenshot here for instant activation)*
