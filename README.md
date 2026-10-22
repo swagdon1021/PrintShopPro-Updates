@@ -1,13 +1,8 @@
-### 📞 Support & Contact
-If you have any questions, feedback, or if you made a payment but didn't receive your license key, feel free to reach out to us:
-* **Email:** [shorts.of.rajdeep@gmail.com](mailto:shorts.of.rajdeep@gmail.com)
-* **WhatsApp:** [+91 6294399043](https://wa.me/916294399043) *(Send your payment screenshot here for instant activation)*
+# 🖨️ Print Shop Pro - Open-Source Studio Edition
 
-# 🖨️ Print Shop Pro - Ultimate Edition
+Welcome to **Print Shop Pro**, an advanced, all-in-one desktop application designed specifically for Cyber Cafes, Print Shops, and Desktop Publishers. This software streamlines the process of scanning, editing, formatting, and printing identity cards and portraits with professional-grade tools and zero lag. 
 
-Welcome to **Print Shop Pro**, an advanced, all-in-one desktop application designed specifically for Cyber Cafes, Print Shops, and Desktop Publishers. This software streamlines the process of scanning, editing, formatting, and printing ID cards with professional-grade tools and zero lag. 
-
-Whether you are printing an Aadhaar Card, Voter ID, or PAN Card, Print Shop Pro automates the layout process, saving you time and boosting your shop's productivity.
+Whether you are printing Aadhaar Cards, Voter IDs, PAN Cards, or Passport Photos, Print Shop Pro automates the layout process locally on your hardware, ensuring 100% data privacy.
 
 ---
 
@@ -16,46 +11,48 @@ Whether you are printing an Aadhaar Card, Voter ID, or PAN Card, Print Shop Pro 
 ### 📐 Automated Card Layouts
 * **Pre-configured Templates:** 1-click automatic A4 formatting for:
   * Aadhaar Card (Side-by-Side)
-  * Voter Card (Side-by-Side)
+  * Voter ID Card (Side-by-Side)
+  * PAN Card (Top to Bottom)
   * Ration Card (Side-by-Side)
-  * PAN Card (Top & Bottom)
-  * Swasthya Sathi (Top & Bottom)
+  * Swasthya Sathi (Top to Bottom)
 * **Direct Scanner Integration:** Scan documents directly into the software with built-in WIA support.
 
-### 🎨 Pro-Level Image Editing (Photoshop Style)
+### 🎨 Pro-Level Image Editing & AI Studio
+* **Offline AI Background Removal:** Instantly remove messy backgrounds and apply clean White or Passport Blue studio backdrops locally.
 * **Smart Perspective Crop:** Easily fix skewed or angled scans with a 4-point draggable smart crop tool.
-* **Advanced Levels Adjustment:** Adjust Shadows, Midtones, and Highlights with a real-time Interactive Histogram.
-* **White Point Picker:** Instantly remove grayish backgrounds from scanned documents with a single click.
-* **Auto Enhancements:** 1-click Auto Levels and Auto Color correction algorithms.
+* **Advanced Tone Curves & Levels:** Adjust Shadows, Midtones, and Highlights with a real-time Interactive Histogram.
+* **White Point Picker:** Instantly neutralize grayish backgrounds from scanned documents with a single click.
+* **Adaptive Document Clean:** 1-click adaptive thresholding to convert shadowed document photos into crisp black-and-white text.
 
-### 🖱️ Zero-Lag Interactive Canvas
+### 🖱️ Zero-Lag Interactive Canvas & Compressor
 * **Free Transform & Distort:** Scale, resize, and freely distort images directly on the A4 preview canvas.
-* **Real-time Rendering:** See every adjustment instantly on the final print layout.
+* **Smart Size Compressor:** Compress any layout down to a strict target file size (e.g., exactly under 100 KB) using binary-search quality algorithms.
 
 ### 🖨️ Advanced Print & Export Engine
 * **Print Engine:** Live print preview, margin controls, orientation setup, and multi-copy support.
-* **High-Res Export:** Save your ready-to-print layouts as PDF or High-Resolution Image formats (PNG/JPG).
+* **High-Res Export:** Save your ready-to-print layouts as 300-DPI PDF or High-Resolution Image formats (PNG/JPG).
 
-### ☁️ Cloud Updates & Security
-* **Seamless OTA Updates:** Built-in auto-updater. The software directly fetches and installs the latest features from GitHub without manual downloading.
-* **Smart Licensing System:** Highly secure, device-locked 30-day subscription model with integrated UPI QR payment verification for smooth license renewals.
+### 🔒 100% Local Processing & Updates
+* **Zero Cloud Uploads:** No document or image data ever leaves your computer. Everything runs strictly in local RAM.
+* **Open-Source & Free:** 100% free with zero subscription fees, license keys, or payment gates.
+* **OTA Updates:** Built-in auto-updater to fetch the latest improvements directly from GitHub.
 
 ---
 
 ## 💻 How to Use
 
-1. **Activate:** Open the software and enter your valid 30-day License Key.
-2. **Import/Scan:** Drag & drop your document images or scan them directly into the Front/Back side panels.
-3. **Edit & Crop:** Use the Smart Crop and Levels tools to enhance document quality.
-4. **Generate Layout:** Select the document type from the dropdown and click "Generate A4 Layout".
-5. **Print:** Hit the Print button or export it as a PDF/Image!
+1. **Import/Scan:** Drag and drop your document images or scan them directly into the Front/Back side panels.
+2. **Edit & Crop:** Use the Smart Crop, AI Background Removal, and Tone Curves to enhance document quality.
+3. **Generate Layout:** Select the document type from the dropdown and the software automatically arranges your A4 sheet.
+4. **Print or Export:** Hit the Print button, save as a high-res PDF, or compress it for digital uploads!
 
 ---
 
-### 🔑 License Information
-* This is a premium software operating on a **30-Day Subscription Model**. 
-* **Note for Users:** Check the `License_Key.txt` file for your initial activation key. Once expired, you can easily renew your license directly from the software's Settings tab using the UPI Payment portal.
+### 📞 Support & Contact
+If you encounter any bugs or wish to contribute to the open-source repository, feel free to reach out:
+* **Email:** [shorts.of.rajdeep@gmail.com](mailto:shorts.of.rajdeep@gmail.com)
+* **GitHub:** [swagdon1021/PrintShopPro-Updates](https://github.com/swagdon1021/PrintShopPro-Updates)
 
-**Developed with ❤️ for Cyber Cafe Owners.**
+**Developed with ❤️ for Cyber Cafe Owners and Print Professionals.**
 
-## CREATED BY RAJDEEP PATRA
+**CREATED BY RAJDEEP PATRA**
