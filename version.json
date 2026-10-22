@@ -1,5 +1,7 @@
+@"
 {
-  "version": "1.4.0",
-  "url": "https://github.com/swagdon1021/PrintShopPro-Updates/releases/download/v1.4.0/PrintShopPro.exe",
-  "size": 108.24
+  "version": "2.4.1",
+  "url": "https://github.com/swagdon1021/PrintShopPro-Updates/releases/download/v2.4.1/PrintShopPro.exe",
+  "size": 199.0
 }
+"@ | Set-Content -Path "version.json" -Encoding UTF8
