@@ -1,4 +1,4 @@
-# 🖨️ Print Shop Pro - Open-Source Studio Edition
+# 🖨️ Print Shop Pro - FREEEE Studio Edition
 
 Welcome to **Print Shop Pro**, an advanced, all-in-one desktop application designed specifically for Cyber Cafes, Print Shops, and Desktop Publishers. This software streamlines the process of scanning, editing, formatting, and printing identity cards and portraits with professional-grade tools and zero lag. 
 
