@@ -1,8 +1,31 @@
 # 🖨️ Print Shop Pro - FREEEE Studio Edition
 
+[![Web App](https://img.shields.io/badge/Web%20App-Live%20Now-B0742E?style=flat-square&logo=vercel&logoColor=white)](https://printshop-web-dun.vercel.app)
+[![Free](https://img.shields.io/badge/Price-100%25%20Free-2E7D32?style=flat-square)](https://printshop-web-dun.vercel.app)
+
 Welcome to **Print Shop Pro**, an advanced, all-in-one desktop application designed specifically for Cyber Cafes, Print Shops, and Desktop Publishers. This software streamlines the process of scanning, editing, formatting, and printing identity cards and portraits with professional-grade tools and zero lag. 
 
 Whether you are printing Aadhaar Cards, Voter IDs, PAN Cards, or Passport Photos, Print Shop Pro automates the layout process locally on your hardware, ensuring 100% data privacy.
+
+> 🌐 **Try the free web version — no install needed:** **[printshop-web-dun.vercel.app](https://printshop-web-dun.vercel.app)**
+>
+> It runs entirely in your browser: ID card layouts, passport photo sheets, image compression and 300-DPI PDF export. Nothing is uploaded to a server.
+
+---
+
+## 🌐 Print Pro Shop — Web Edition
+
+The same print-shop workflows are available online, free, on any laptop, desktop, Chromebook or Android tablet with a modern browser.
+
+**Open the web app:** [https://printshop-web-dun.vercel.app](https://printshop-web-dun.vercel.app)
+
+* **Aadhaar, Voter ID, PAN and Ration Card** A4 layouts with automatic placement
+* **Passport and stamp photo sheets** with exact copy counts
+* **Image compressor** with a live before/after preview and target file size
+* **300-DPI PDF** and high-resolution PNG/JPG export
+* **100% local processing** — images never leave your device, no sign-up required
+
+> The desktop edition below adds scanner integration, offline AI background removal and advanced tone curves. The web edition focuses on the most-used layout, photo-sheet and compression tools.
 
 ---
 
